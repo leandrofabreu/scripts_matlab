@@ -1,2 +1,2 @@
-# scripts_matlab
-Useful scripts in Matlab
+# Scripts in Matlab
+Some useful scripts in Matlab
